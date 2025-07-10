@@ -1,2 +1,2 @@
 # React Project
-<!-- hii i am kabir -->
+This project is initialized by Kabir Singh.
