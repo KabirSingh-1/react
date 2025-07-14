@@ -1,0 +1,9 @@
+
+function App() {
+
+  return (
+    <h1>chai or code with vite | Kabir Singh</h1>
+  )
+}
+
+export default App
