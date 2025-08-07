@@ -29,7 +29,7 @@ function App() {
 
   const copyToClipboard = useCallback(() => {
    passwordRef.current?.select();
-  //  passwordRef.current?.setSelectionRange(0,10); // copy 10 characters
+   passwordRef.current?.setSelectionRange(0,10); // copy 10 characters
     window.navigator.clipboard.writeText(password)
   },[password]
   )
