@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <h1>A Blog app in app</h1>
+     <h1>learn about redux  tool kit</h1>
     </>
   )
 }
